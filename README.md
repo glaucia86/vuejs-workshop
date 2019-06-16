@@ -79,7 +79,7 @@ Durante o workshop estaremos trabalhando com 3 workshops, que tem como principal
 
 * **[Workshop 3 - Single Page Application com MEVN](workshop-3/workshop-3.md)**
 
-## Tenho Dúvidas... O que Faço?! 🚩
+## Tenho Dúvidas... O que Faço?! ❓
 
 Caso tenham dúvidas ao código dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/vuejs-workshop/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
