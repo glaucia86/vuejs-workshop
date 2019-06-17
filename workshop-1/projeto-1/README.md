@@ -50,6 +50,6 @@ Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser execu
 Caso desejam visualizar a demo da aplicação na nuvem, bastam acessar o link **[AQUI]()**.
 
 
-## Dúvidas?! ❓
+## Tenho Dúvidas... O que Faço?! ❓
 
 Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o ambiente, bastam criar uma **[ISSUE](https://github.com/glaucia86/vuejs-workshop/issues)** no GitHub que estarei respondendo a vocês!! :heart: :heart: :heart: :blush:
