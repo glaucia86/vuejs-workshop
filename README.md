@@ -39,6 +39,57 @@ Realizando esses dois cursos, você já estará totalmente apto para realizar o 
 
 * workshop-3
 
+## O que eu vou aprender?! 📕
+
+Esse repositório possui 3 workshops, dependendo do tempo do meetup que será realizado o desenvolvimento das aplicações. 
+
+Os níveis estão divididos em:
+
+* Inicial (workshop-1)
+* Intermediário (workshop-2)
+* Avançado (workshop-3)
+
+A intenção é que todas as pessoas desenvolvedoras possam aprender Vue.js desenvolvendo aplicações do dia-a-dia usando desde conceitos básicos à avançados de Vue.js.
+
+Após o desenvolvimento de cada projeto, ensinaremos a realizar o deploy/host dos projetos na nuvem usando o **[Azure App Service](https://azure.microsoft.com/?WT.mc_id=vuejsworkshop-github-gllemos)**.
+
+## Executando Localmente o Projeto 🔥
+
+Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
+
+### Começando... 🌀
+
+Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
+
+### Instalando as Dependências (via Windows): ❗️
+
+Abre o cmd (caso esteja utilizando o Windows) e digite a path do seu projeto
+
+```bash
+> cd "C:\Users\NomeDoComputador\Documents\..."
+```
+
+Depois, quando estiver na pasta do projeto, basta digitar no cmd a seguinte instrução: (dentro do calculadora-app)
+
+```bash
+> npm install
+```
+
+Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo **package.json**:
+
+`node_modules` - que contêm os packages do npm que precisará para o projeto.
+
+### Executando a Aplicação 💨
+
+Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser executado localmente.
+
+```bash
+> npm run dev
+```
+
+## Tenho Dúvidas... O que Faço?! 🚩
+
+Caso tenham dúvidas ao código dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/vuejs-workshop/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
 
 **(documentação em desenvolvimento)**
