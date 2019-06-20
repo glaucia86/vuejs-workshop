@@ -26,8 +26,8 @@ Ao final do desenvolvimento da aplicação, estaremos hospedando a nossa aplica�
 | **[Tutorial 14](agenda/14-desenvolvendo-o-botão-multiplicar.md)**  | Desenvolvendo o Botão 'x' (multiplicar)  |
 | **[Tutorial 15](agenda/15-desenvolvendo-o-botão-diminuir.md)**  | Desenvolvendo o Botão '-' (diminuir)  |
 | **[Tutorial 16](agenda/16-desenvolvendo-o-botão-somar.md)**  | Desenvolvendo o Botão '+' (somar)  |
-| **[Tutorial 17]()** | |
-| **[Tutorial 18]()** | |
+| **[Tutorial 17](agenda/17-refatorando-o-projeto.md)** | Refatorando o projeto |
+| **[Tutorial 18](agenda/18-separando-os-arquivos-do-componente-calculadora-vue.md)** | Separando os arquivos do componente 'Calculadora.vue' |
 | **[Tutorial 19]()** | |
 | **[Tutorial 20]()** | |
 | **[Tutorial 21]()** | |
