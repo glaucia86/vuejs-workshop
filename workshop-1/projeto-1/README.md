@@ -12,20 +12,39 @@ A demo consiste no desenvolvimento de uma Calculadora Simples. Onde ao final do 
 * **[Vue-CLI](https://cli.vuejs.org/)**
 * **[Azure App Service](https://azure.microsoft.com/?WT.mc_id=vuejsworkshop-github-gllemos)**
 
-## Executando a Aplicação Localmente 🔥
+## Executando Localmente o Projeto 🔥
 
-1) Instalar os pacotes com o comando:
+Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
+
+### Começando... 🌀
+
+Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
+
+### Instalando as Dependências (via Windows): ❗️
+
+Abre o cmd (caso esteja utilizando o Windows) e digite a path do seu projeto
+
+```bash
+> cd "C:\Users\NomeDoComputador\Documents\..."
+```
+
+Depois, quando estiver na pasta do projeto, basta digitar no cmd a seguinte instrução: (dentro do calculadora-app)
 
 ```bash
 > npm install
 ```
 
+Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo **package.json**:
+
+`node_modules` - que contêm os packages do npm que precisará para o projeto.
+
+### Executando a Aplicação 💨
+
+Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser executado localmente.
+
 ```bash
 > npm run dev
 ```
-
-Depois bastam abrir o browser em: **localhost:8080**
-
 ## Demo da Aplicação (Online) ⭐️
 
 Caso desejam visualizar a demo da aplicação na nuvem, bastam acessar o link **[AQUI]()**.
