@@ -32,9 +32,10 @@ Ao final do desenvolvimento da aplicação, estaremos hospedando a nossa aplica�
 | **[Tutorial 20](agenda/20-realizando-a-separação-do-bloco-script.md)** | Realizando a separação do bloco script |
 | **[Tutorial 21](agenda/21-finalização-do-desenvolvimento-do-arquivo-index-vue.md)** | Finalização do desenvolvimento do arquivo 'index.vue' |
 | **[Tutorial 22](agenda/22-o-que-é-azure-app-service.md)** | O que é Azure App Service? |
-| **[Tutorial 23]()** | Hospedando a aplicação no Azure App Service |
-| **[Tutorial 24]()** | |
-| **[Tutorial 25]()** | |
+| **[Tutorial 23](agenda/23-criando-uma-conta-no-azure.md)** | Criando uma conta no Azure |
+| **[Tutorial 24](agenda/24-hospedando-a-aplicação-no-azure-app-service.md)** | Hospedando a aplicação no Azure App Service |
+| **[Tutorial 25](agenda/25-palavras-finais.md)** | Palavras Finais |
+
 
 
 
