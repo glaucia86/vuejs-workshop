@@ -53,11 +53,11 @@ A intenção é que todas as pessoas desenvolvedoras possam aprender Vue.js dese
 
 Após o desenvolvimento de cada projeto, ensinaremos a realizar o deploy/host dos projetos na nuvem usando o **[Azure App Service](https://azure.microsoft.com/?WT.mc_id=vuejsworkshop-github-gllemos)**.
 
-## Projetos a serem Desenvolvidos
+## Projetos a serem Desenvolvidos 💾
 
 Conforme explicado, os workshops estão nivelados. Assim sendo, segue a descrição e o tempo que cada worshop terão (aproximadamente):
 
-| Workshop  | Nível  | Projeto  | Tempo de Duração (aproximadamente)  |   |
+| Workshop  | Nível  | Projeto  | Tempo de Duração (aproximadamente)  |   
 |---|---|---|---|---|
 | workshop-1  | Iniciante  | Calculadora em Vue.js  |  1h 30min |   |
 | workshop-2  | Intermediário  | Todo-List  | 2h 30min  |   |
@@ -70,6 +70,10 @@ Durante o workshop estaremos trabalhando com 3 workshops, que tem como principal
 * **[workshop-1 - Calculadora em Vue.js]()**
 * **[workshop-2 - Todo-List em Vue.js]()**
 * **[workshop-3 - Single Page Application com MEVN]()**
+
+## Agenda
+
+
 
 ## Executando Localmente o Projeto 🔥
 
