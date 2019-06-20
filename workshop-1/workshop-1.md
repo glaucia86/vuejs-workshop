@@ -28,9 +28,9 @@ Ao final do desenvolvimento da aplicação, estaremos hospedando a nossa aplica�
 | **[Tutorial 16](agenda/16-desenvolvendo-o-botão-somar.md)**  | Desenvolvendo o Botão '+' (somar)  |
 | **[Tutorial 17](agenda/17-refatorando-o-projeto.md)** | Refatorando o projeto |
 | **[Tutorial 18](agenda/18-separando-os-arquivos-do-componente-calculadora-vue.md)** | Separando os arquivos do componente 'Calculadora.vue' |
-| **[Tutorial 19]()** | |
-| **[Tutorial 20]()** | |
-| **[Tutorial 21]()** | |
+| **[Tutorial 19](agenda/19-realizando-a-separação-do-bloco-style.md)** | Realizando a separação do bloco style |
+| **[Tutorial 20](agenda/20-realizando-a-separação-do-bloco-script.md)** | Realizando a separação do bloco script |
+| **[Tutorial 21](agenda/21-finalização-do-desenvolvimento-do-arquivo-index-vue.md)** | Finalização do desenvolvimento do arquivo 'index.vue' |
 | **[Tutorial 22]()** | |
 | **[Tutorial 23]()** | |
 | **[Tutorial 24]()** | |
