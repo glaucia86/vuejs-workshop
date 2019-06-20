@@ -25,9 +25,9 @@ Para a realização dos workshops de Vue.js, se faz necessário ter noções de:
 
 Realizando esses 2 cursos, vocês já estarão aptos para realizar os workshops:
 
-* workshop-1
+* **[workshop-1](workshop-1/workshop-1.md)**
 
-* workshop-2
+* **[workshop-2](workshop-2/workshop-2.md)**
 
 Já o Workshop-3, se faz necessário ter noções de: **Node.js & MongoDb**. Para isso, recomendo os cursos grátis:
 
@@ -37,7 +37,7 @@ Já o Workshop-3, se faz necessário ter noções de: **Node.js & MongoDb**. Par
 
 Realizando esses dois cursos, você já estará totalmente apto para realizar o workshop:
 
-* workshop-3
+* **[workshop-3](workshop-3/workshop-3.md)**
 
 ## O que eu vou aprender?! 📕
 
@@ -59,21 +59,26 @@ Conforme explicado, os workshops estão nivelados. Assim sendo, segue a descriç
 
 | Workshop  | Nível  | Projeto  | Tempo de Duração (aproximadamente)  |   
 |---|---|---|---|
-| workshop-1  | Iniciante  | Calculadora em Vue.js  |  1h 30min |   
-| workshop-2  | Intermediário  | Todo-List  | 2h 30min  |   
-| workshop-3  | Avançado  | SPA: MEVN  | 4h 30min  |   
+| **[workshop-1](workshop-1/workshop-1.md)**  | Iniciante  | Calculadora em Vue.js  |  1h 30min |   
+| **[workshop-2](workshop-2/workshop-2.md)**  | Intermediário  | Todo-List  | 2h 30min  |   
+| **[workshop-3](workshop-3/workshop-3.md)**  | Avançado  | SPA: MEVN  | 4h 30min  |   
 
 ## Workshops 💻
 
 Durante o workshop estaremos trabalhando com 3 workshops, que tem como principal objetivo ensinar a desenvolver projetos em Vue.js e no final integrar as aplicações na plataforma Azure.
 
-* **[workshop-1 - Calculadora em Vue.js]()**
-* **[workshop-2 - Todo-List em Vue.js]()**
-* **[workshop-3 - Single Page Application com MEVN]()**
+* **[workshop-1 - Calculadora em Vue.js](workshop-1/projeto-1/README.md)**
+* **[workshop-2 - Todo-List em Vue.js](workshop-2/projeto-2/README.md)**
+* **[workshop-3 - Single Page Application com MEVN](workshop-3/projeto-3/README.md)**
 
-## Agenda
+## Agenda 📒
+
+### [Workshop 1 - Calculadora em Vue.js]()
 
 
+### [Workshop 2 - Todo-List em Vue.js]()
+
+### [Workshop 3 - Single Page Application com MEVN]()
 
 ## Executando Localmente o Projeto 🔥
 
