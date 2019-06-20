@@ -8,12 +8,24 @@ Ao final do desenvolvimento da aplicação, estaremos hospedando a nossa aplica�
 
 ## Agenda - Worshop 1
 
-- **[1. Criando o Projeto no Vue-CLI](agenda/1-criando-o-projeto-no-vue-cli.md)**
-
-- **[2. Alterando as configurações do Projeto](agenda/2-alterando-as-configurações-do-projeto.md)**
-
-- **[3. Alterando o componente no Projeto](agenda/3-alterando-o-componente-no-projeto.md)**
-
-- **[4. Incluindo Css no Componente Calculadora.vue](agenda/4-incluindo-css-no-componente-calculadora-vue.md)**
+| Parte  |  Tópico |   
+|---|--- |
+| **[Tutorial 1](agenda/1-criando-o-projeto-no-vue-cli.md)**  | 1. Criando o Projeto no Vue-CLI  |
+| **[Tutorial 2](agenda/2-alterando-as-configurações-do-projeto.md)**  | 2. Alterando as configurações do Projeto  |
+| **[Tutorial 3](agenda/3-alterando-o-componente-no-projeto.md)**  | 3. Alterando o componente no Projeto  |
+| **[Tutorial 4](agenda/4-incluindo-css-no-componente-calculadora-vue.md)**  | 4. Incluindo Css no Componente Calculadora.vue  |
+| **[Tutorial 5]()**  |   |
+| **[Tutorial 6]()**  |   |
+| **[Tutorial 7]()**  |   |
+| **[Tutorial 8]()**  |   |
+| **[Tutorial 9]()**  |   |
+| **[Tutorial 10]()**  |   |
+| **[Tutorial 11]()**  |   |
+| **[Tutorial 12]()**  |   |
+| **[Tutorial 13]()**  |   |
+| **[Tutorial 13]()**  |   |
+| **[Tutorial 13]()**  |   |
+| **[Tutorial 13]()**  |   |
+| **[Tutorial 13]()**  |   |
 
 
