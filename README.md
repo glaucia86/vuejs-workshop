@@ -57,7 +57,7 @@ Após o desenvolvimento de cada projeto, ensinaremos a realizar o deploy/host do
 
 Conforme explicado, os workshops estão nivelados. Assim sendo, segue a descrição e o tempo que cada worshop terão (aproximadamente):
 
-| Workshop  | Nível  | Projeto  | Tempo de Duração (aproximadamente)  |   
+| Workshop  | Nível  | Projeto  | Tempo de Duração (aproximadamente)  |   |
 |---|---|---|---|---|
 | workshop-1  | Iniciante  | Calculadora em Vue.js  |  1h 30min |   |
 | workshop-2  | Intermediário  | Todo-List  | 2h 30min  |   |
