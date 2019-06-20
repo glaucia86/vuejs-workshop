@@ -13,7 +13,7 @@ Repositório responsável pelos workshops de Vue.js com Azure App Service.
 * **[MongoDb Community Server](https://www.mongodb.com/download-center/community)**
 * **[MongoDb Compass GUI](https://www.mongodb.com/download-center/compass)**
 * **[Postman](https://www.getpostman.com/)**
-* **[Azure App Service](https://azure.microsoft.com/?WT.mc_id=vuejsworkshop-github-gllemos)**
+* **[Azure App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=vuejsworkshop-github-gllemos)**
 
 ## Pré-requisitos 📌
 

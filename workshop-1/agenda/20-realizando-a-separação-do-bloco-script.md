@@ -107,3 +107,5 @@ Agora, volte ao arquivo `index.vue` e vamos referenciar o arquivo `Calculadora.j
 ```vue
 <script src="./Calculadora.js"></script>
 ```
+
+Execute a aplicação e veja se está tudo funcionando. Se sim, terminamos! 😊
