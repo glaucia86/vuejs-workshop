@@ -1,8 +1,8 @@
 # Workshop - Vue.js com Azure App Service
 
-[![Tutorial-Todo-List-com-Vuejs.png](https://i.postimg.cc/28Yk9C22/Tutorial-Todo-List-com-Vuejs.png)](https://postimg.cc/LhyFnFd1)
+[![Tutorial-Todo-List-com-Vuejs-1.png](https://i.postimg.cc/Mp1srBWL/Tutorial-Todo-List-com-Vuejs-1.png)](https://postimg.cc/k2XF2BRN)
 
-Repositório responsável pelos workshops de Vue.js com Azure App Service.
+Repositório responsável pelos workshops de Vue.js com Azure.
 
 ## Recursos Utilizados 🚀
 
@@ -65,7 +65,7 @@ Conforme explicado, os workshops estão nivelados. Assim sendo, segue a descriç
 
 ## Workshops 💻
 
-Durante o workshop estaremos trabalhando com 3 workshops, que tem como principal objetivo ensinar a desenvolver projetos em Vue.js e no final integrar as aplicações na plataforma Azure.
+Durante o workshop, estaremos trabalhando com 3 workshops, que tem como principal objetivo ensinar a desenvolver projetos em Vue.js e no final integrar as aplicações na plataforma Azure.
 
 * **[workshop-1 - Calculadora em Vue.js](workshop-1/projeto-1/README.md)**
 * **[workshop-2 - Todo-List em Vue.js](workshop-2/projeto-2/README.md)**
