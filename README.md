@@ -1,4 +1,4 @@
-# Workshop - Vue.js & Azure
+# Workshop - Vue.js com Azure
 [![Tutorial-Todo-List-com-Vuejs-1.png](https://i.postimg.cc/Mp1srBWL/Tutorial-Todo-List-com-Vuejs-1.png)](https://postimg.cc/k2XF2BRN)
 
 Repositório responsável pelos workshops de Vue.js com Azure.
