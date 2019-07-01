@@ -1,11 +1,11 @@
+// @ts-nocheck
 /**
- *
  * Arquivo: src/components/pages/TodoList/TodoList.js
- * Data: 04/12/2018
+ * Data: 01/07/2019
  * Descrição: arquivo responsável por lidar com a lógica inerente ao componente 'TodoList'
  * Autora: Glaucia Lemos
- *
  */
+
 import sweetAlert from 'sweetalert';
 import Todo from '../Todo/index';
 

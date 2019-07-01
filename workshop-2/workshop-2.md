@@ -10,7 +10,6 @@ Repositório responsável pelo desenvolvimento de um TODO-List com Vue.js 2.
 - **[Node.JS](https://nodejs.org/pt-br/)**
 - Vuejs 2 - **[GUIDE AQUI](https://vuejs.org/v2/guide/)**
 - **[UI Semantic](https://semantic-ui.com/)**;
-- **[Yarn](https://yarnpkg.com/pt-BR/)**
 - **[Sweetheart Alert Package v.2](https://sweetalert.js.org/)**;
 - Conceito de SPA;
 - Vue Router (somente o conceito) - **[GUIDE AQUI](https://router.vuejs.org/)**
@@ -22,14 +21,22 @@ Repositório responsável pelo desenvolvimento de um TODO-List com Vue.js 2.
 Caso desejam testar a aplicação localmente bastam instalar o pacote do projeto digitando o seguinte comando:
 
 ```
-> yarn install
+> npm install
 ```
 
 Feito isso, digite agora o seguinte comando:
 
 ```
-> yarn run dev
+> npm run dev
 ```
 
 E vòilá! A aplicação será executada na porta: **localhost:8080**
+
+## Agenda - Worshop 2
+
+| Parte  |  Tópico |   
+|---|--- |
+| **[Tutorial 1](agenda/1-criando-o-projeto-no-vue-cli.md)**  | Criando o Projeto no Vue-CLI  |
+| **[Tutorial 2](agenda/2-alterando-as-configurações-do-projeto.md)**  | Alterando as configurações do Projeto  |
+| **[Tutorial 3](agenda/3-alterando-o-componente-no-projeto.md)**  | Alterando o componente no Projeto  |
 

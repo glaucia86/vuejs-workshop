@@ -9,7 +9,7 @@
 
 import Vue from 'vue';
 import Router from 'vue-router';
-import TodoList from '@/components/pages/TodoList';
+import TodoList from '../components/pages/TodoList/TodoList';
 
 Vue.use(Router);
 
