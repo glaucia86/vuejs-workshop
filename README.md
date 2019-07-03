@@ -19,7 +19,7 @@ Repositório responsável pelos workshops de Vue.js com Azure.
 
 ## Conta - Azure for Students ⭐️
 
-Caso você seja um estudandante de alguma instituição de ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=vuejsworkshop-github-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, basta acessar **[LINK AQUI](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=vuejsworkshop-github-gllemos)**
+Caso você seja um estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=vuejsworkshop-github-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, basta acessar **[LINK AQUI](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=vuejsworkshop-github-gllemos)**
 
 ## Pré-requisitos 📌
 
