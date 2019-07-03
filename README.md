@@ -57,7 +57,7 @@ Os níveis estão divididos em:
 
 A intenção é que todas as pessoas desenvolvedoras possam aprender Vue.js desenvolvendo aplicações do dia-a-dia usando desde conceitos básicos à avançados de Vue.js.
 
-Após o desenvolvimento de cada projeto, ensinaremos a realizar o deploy/host dos projetos na nuvem usando o **[Azure App Service](https://azure.microsoft.com/?WT.mc_id=vuejsworkshop-github-gllemos)**.
+Após o desenvolvimento de cada projeto, ensinaremos a realizar o deploy/host dos projetos na nuvem usando o **[Azure App Service](https://azure.microsoft.com/?WT.mc_id=vuejsworkshop-github-gllemos)** e **[Azure Storage Account](https://azure.microsoft.com/pt-br/services/storage/?WT.mc_id=vuejsworkshop-github-gllemos)**
 
 ## Projetos a serem Desenvolvidos 💾
 
