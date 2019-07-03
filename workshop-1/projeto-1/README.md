@@ -47,7 +47,7 @@ Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser execu
 ```
 ## Demo da Aplicação (Online) ⭐️
 
-Caso desejam visualizar a demo da aplicação na nuvem, bastam acessar o link **[AQUI]()**.
+Caso desejam visualizar a demo da aplicação na nuvem, bastam acessar o link **[AQUI](https://glau-calc-vue.azurewebsites.net/)**.
 
 
 ## Tenho Dúvidas... O que Faço?! ❓
