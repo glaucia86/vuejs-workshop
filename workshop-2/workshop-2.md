@@ -10,5 +10,5 @@ A demo consiste no desenvolvimento de uma aplicação Todo List. Onde ao final d
 |---|--- |
 | **[Tutorial 1](agenda/1-criando-o-projeto-no-vue-cli.md)**  | Criando o Projeto no Vue-CLI  |
 | **[Tutorial 2](agenda/2-alterando-as-configurações-do-projeto.md)**  | Alterando as configurações do Projeto  |
-| **[Tutorial 3](agenda/3-alterando-o-componente-no-projeto.md)**  | Alterando o componente no Projeto  |
+| **[Tutorial 3](agenda/3-incluindo-semantic-ui-na-aplicação-vuejs)**  |  Incluindo Semantic UI e SweetAlert na aplicação Vue.js  |
 
