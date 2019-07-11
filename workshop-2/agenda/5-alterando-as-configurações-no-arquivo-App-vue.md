@@ -5,8 +5,7 @@ Vamos acertar o erro do passo anterior. Para isso, abram o arquivo `App.vue` e a
 ```javascript
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <TodoList/>
+
   </div>
 </template>
 
