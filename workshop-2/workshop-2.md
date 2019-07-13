@@ -14,4 +14,8 @@ A demo consiste no desenvolvimento de uma aplicação Todo List. Onde ao final d
 | **[Tutorial 4](agenda/4-alterando-o-componente-no-projeto.md)**  |  Alterando o componente no Projeto |
 | **[Tutorial 5](agenda/5-alterando-as-configurações-no-arquivo-App-vue.md)**  | Alterando as configurações no arquivo 'App.vue' |
 | **[Tutorial 6](agenda/6-desenvolvendo-o-nosso-primeiro-componente-todo-list-vue.md)**  | Desenvolvendo o nosso primeiro Componente 'TodoList.vue' |
+| **[Tutorial 7](agenda/7-criando-dados-para-o-componente-todo-list.md)**  | Criando Dados para o Componente: 'Todo-List' |
+| **[Tutorial 8](agenda/8-renderizando-os-dados-do-componente.md)**  | Renderizando os dados do Componente |
+
+
 
