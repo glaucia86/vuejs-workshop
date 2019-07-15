@@ -10,18 +10,18 @@ Inclua o bloco de código, na tag `<template>` conforme abaixo:
 <template>
   <div>
     <p>Tarefa(s) Concluída(s):
-      {{ todos.filter(todo => { return todo.foiCriado === true }).length }}
+      {{ todos.filter(todo => { return todo.concluido === true }).length }}
     </p>
     <p>Tarefa(s) Pendente(s):
-      {{ todos.filter(todo => { return todo.foiCriado === false }).length }}
+      {{ todos.filter(todo => { return todo.concluido === false }).length }}
     </p>
     <div class="ui centered card" v-for="todo in todos" v-bind:key="todo.value">
       <div class="content">
         <div class="header">
-          {{ todo.textoTitulo }}
+          {{ todo.titulo }}
         </div>
         <div class="meta">
-          {{ todo.textoProjeto }}
+          {{ todo.projeto }}
         </div>
         <div class="extra content">
           <span class="right floated edit icon">
@@ -29,10 +29,10 @@ Inclua o bloco de código, na tag `<template>` conforme abaixo:
           </span>
         </div>
       </div>
-      <div class="ui bottom attached green basic button" v-show="todo.foiCriado">
+      <div class="ui bottom attached green basic button" v-show="todo.concluido">
         Concluído
       </div>
-      <div class="ui bottom attached red basic button" v-show="!todo.foiCriado">
+      <div class="ui bottom attached red basic button" v-show="!todo.concluido">
         Pendente
       </div>
     </div>

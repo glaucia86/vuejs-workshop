@@ -123,3 +123,5 @@ Agora, vamos invocar esse método na tag `<template>`. Inclua o bloco abaixo:
 Ao executar a aplicação veremos que status da tarefa alterará. Vejam abaixo:
 
 [![gif-10.gif](https://i.postimg.cc/k4j6Z581/gif-10.gif)](https://postimg.cc/N9Hj2Bdm)
+
+Agora fazer incluir alguns alertas a nossa aplicação!

@@ -104,7 +104,7 @@ methods: {
     createTodo(novoTitulo) {
       this.todos.push({
         novoTitulo,
-        foiCriado: false,
+        concluido: false,
       });
     },
   },

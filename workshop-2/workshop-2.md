@@ -21,6 +21,7 @@ A demo consiste no desenvolvimento de uma aplicação Todo List. Onde ao final d
 | **[Tutorial 11](agenda/11-desenvolvendo-o-botão-exclusão-ao-componente-todo.md)**  | Desenvolvendo o Botão Exclusão ao Componente 'Todo' |
 | **[Tutorial 12](agenda/12-desenvolvendo-o-botão-adição.md)**  | Desenvolvendo o Botão Adição |
 | **[Tutorial 13](agenda/13-desenvolvendo-o-botão-pendente-concluído.md)**  | Desenvolvendo o Botão Pendente/Concluído |
+| **[Tutorial 14](agenda/14-inclusão-do-sweetalert-no-arquivo-app-vue.md)**  | Inclusão do SweetAlert no arquivo 'App.vue' |
 
 
 

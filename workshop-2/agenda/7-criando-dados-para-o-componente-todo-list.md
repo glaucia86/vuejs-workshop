@@ -25,21 +25,21 @@ export default {
   data() {
     return {
       todos: [{
-        textoTitulo: 'Todo A',
-        textoProjeto: 'Projeto A',
-        foiCriado: true,
+        titulo: 'Todo A',
+        projeto: 'Projeto A',
+        concluido: true,
       }, {
-        textoTitulo: 'Todo B',
-        textoProjeto: 'Projeto B',
-        foiCriado: false,
+        titulo: 'Todo B',
+        projeto: 'Projeto B',
+        concluido: false,
       }, {
-        textoTitulo: 'Todo C',
-        textoProjeto: 'Projeto C',
-        foiCriado: true,
+        titulo: 'Todo C',
+        projeto: 'Projeto C',
+        concluido: true,
       }, {
-        textoTitulo: 'Todo D',
-        textoProjeto: 'Projeto D',
-        foiCriado: false,
+        titulo: 'Todo D',
+        projeto: 'Projeto D',
+        concluido: false,
       }],
     };
   },
