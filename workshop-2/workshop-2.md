@@ -19,7 +19,8 @@ A demo consiste no desenvolvimento de uma aplicação Todo List. Onde ao final d
 | **[Tutorial 9](agenda/9-criando-e-editando-o-componente-todo.md)**  | Criando e Editando o Componente 'Todo' |
 | **[Tutorial 10](agenda/10-criando-propriedades-e-metodo-editar-ao-componente-todo-vue.md)**  | Criando Propriedade e Método 'Editar' ao Componente 'Todo.vue' |
 | **[Tutorial 11](agenda/11-desenvolvendo-o-botão-exclusão-ao-componente-todo.md)**  | Desenvolvendo o Botão Exclusão ao Componente 'Todo' |
-| **[Tutorial 12](agenda/12-desenvolvendo-o-botão-adição-ao-componente-todo.md)**  | Desenvolvendo o Botão Adição ao Componente 'Todo' |
+| **[Tutorial 12](agenda/12-desenvolvendo-o-botão-adição.md)**  | Desenvolvendo o Botão Adição |
+| **[Tutorial 13](agenda/13-desenvolvendo-o-botão-pendente-concluído.md)**  | Desenvolvendo o Botão Pendente/Concluído |
 
 
 

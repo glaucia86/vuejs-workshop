@@ -63,8 +63,8 @@ export default {
           projeto,
           concluido: false,
         });
-        this.textoTitulo = '',
-        this.textoProjeto = '',
+        this.textoTitulo = '';
+        this.textoProjeto = '';
         this.foiCriado = false;
       }
     },
@@ -127,3 +127,4 @@ Executa agora a aplicação e veja se não vai aparecer um botão de + conforme 
 
 [![gif-9.gif](https://i.postimg.cc/L4BC73gn/gif-9.gif)](https://postimg.cc/s1x4GScr)
 
+Falta agora só mais um método! Vamos nessa!
