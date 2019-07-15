@@ -12,7 +12,7 @@ Repositório responsável pelos workshops de Vue.js com Azure.
 * **[MongoDb Community Server](https://www.mongodb.com/download-center/community)**
 * **[MongoDb Compass GUI](https://www.mongodb.com/download-center/compass)**
 * **[Postman](https://www.getpostman.com/)**
-* **[Azure App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=vuejsworkshop-github-gllemos)**
+* **[Azure Web App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=vuejsworkshop-github-gllemos)**
 * **[Azure Storage Account](https://azure.microsoft.com/pt-br/services/storage/?WT.mc_id=vuejsworkshop-github-gllemos)**
 * **[Azure CosmosDb](https://azure.microsoft.com/pt-br/services/cosmos-db/?WT.mc_id=vuejsworkshop-github-gllemos)**
 * **[Conta - Azure](https://azure.microsoft.com/pt-br/?WT.mc_id=vuejsworkshop-github-gllemos)**
