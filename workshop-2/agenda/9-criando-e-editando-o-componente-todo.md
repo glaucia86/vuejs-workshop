@@ -11,10 +11,10 @@ Nele iremos extrair um pouco do que temos já pronto no arquivo `TodoList.vue` e
   <div class="ui centered card">
     <div class="content">
       <div class="header">
-        {{ todo.textoTitulo }}
+        {{ todo.titulo }}
       </div>
       <div class="meta">
-        {{ todo.textoProjeto }}
+        {{ todo.projeto }}
       </div>
       <div class="extra content">
         <span class="right floated edit icon">

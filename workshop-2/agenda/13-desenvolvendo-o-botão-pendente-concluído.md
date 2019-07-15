@@ -60,7 +60,7 @@ export default {
     },
     completeTodo(todo) {
       const todoIndex = this.todos.indexOf(todo);
-      this.todos[todoIndex].foiCriado = true;
+      this.todos[todoIndex].concluido = true;
     },
   },
 };
@@ -77,7 +77,7 @@ Agora, vamos invocar esse método na tag `<template>`. Inclua o bloco abaixo:
   <div class="ui centered card">
     <!-- Aqui não irá mostrar a edição do 'Todo-List' -->
     <div class="content" v-show="!ehEditavel">
-      <div class="header">{{ todo.textoTitulo }}</div>
+      <div class="header">{{ todo.titulo }}</div>
       <div class="meta">{{ todo.textoProjeto }}</div>
       <div class="extra content">
         <!-- Criando o método 'abrirForm' -->
@@ -95,11 +95,11 @@ Agora, vamos invocar esse método na tag `<template>`. Inclua o bloco abaixo:
       <div class="ui form">
         <div class="field">
           <label>Título</label>
-          <input type="text" v-model="todo.textoTitulo">
+          <input type="text" v-model="todo.titulo">
         </div>
         <div class="field">
           <label>Projeto</label>
-          <input type="text" v-model="todo.textoProjeto">
+          <input type="text" v-model="todo.projeto">
         </div>
         <div class="ui two button attached buttons">
           <!-- Criando o método 'fecharForm' -->
@@ -109,13 +109,13 @@ Agora, vamos invocar esse método na tag `<template>`. Inclua o bloco abaixo:
     </div>
     <div
       class="ui bottom attached green basic button"
-      v-show="!ehEditavel && todo.foiCriado"
+      v-show="!ehEditavel && todo.concluido"
       disabled
     >Concluído</div>
     <div
       class="ui bottom attached red basic button"
       v-on:click="completeTodo(todo)"
-      v-show="!ehEditavel && !todo.foiCriado"
+      v-show="!ehEditavel && !todo.concluido"
       >Pendente</div>
   </div>
 </template>

@@ -87,3 +87,9 @@ export default {
 };
 </script>
 ```
+
+Ao executar esse código notem o que irá acontecer agora!
+
+[![gif-11.gif](https://s3.gifyu.com/images/gif-11.gif)](https://gifyu.com/image/ERJo)
+
+Ótimo. Vamos dar continuidade!

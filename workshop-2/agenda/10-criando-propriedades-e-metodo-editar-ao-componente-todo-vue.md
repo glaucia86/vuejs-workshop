@@ -12,10 +12,10 @@ Para isso, retorne ao arquivo `Todo.vue` e vamos fazer algumas alterações no a
     <!-- Aqui não irá mostrar a edição do 'Todo-List' -->
     <div class="content" v-show="!ehEditavel">
       <div class="header">
-        {{ todo.textoTitulo }}
+        {{ todo.titulo }}
       </div>
       <div class="meta">
-        {{ todo.textoProjeto }}
+        {{ todo.projeto }}
       </div>
       <div class="extra content">
         <!-- Criando o método 'abrirForm' -->
