@@ -14,10 +14,12 @@ A demo consiste no desenvolvimento de uma aplicação Todo List. Onde ao final d
 | **[Tutorial 4](agenda/4-alterando-o-componente-no-projeto.md)**  |  Alterando o componente no Projeto |
 | **[Tutorial 5](agenda/5-alterando-as-configurações-no-arquivo-App-vue.md)**  | Alterando as configurações no arquivo 'App.vue' |
 | **[Tutorial 6](agenda/6-desenvolvendo-o-nosso-primeiro-componente-todo-list-vue.md)**  | Desenvolvendo o nosso primeiro Componente 'TodoList.vue' |
-| **[Tutorial 7](agenda/7-criando-dados-para-o-componente-todo-list.md)**  | Criando Dados para o Componente: 'Todo-List' |
+| **[Tutorial 7](agenda/7-criando-dados-para-o-componente-todo-list.md)**  | Criando Dados para o Componente 'Todo-List' |
 | **[Tutorial 8](agenda/8-renderizando-os-dados-do-componente.md)**  | Renderizando os dados do Componente |
 | **[Tutorial 9](agenda/9-criando-e-editando-o-componente-todo.md)**  | Criando e Editando o Componente 'Todo' |
 | **[Tutorial 10](agenda/10-criando-propriedades-e-metodo-editar-ao-componente-todo-vue.md)**  | Criando Propriedade e Método 'Editar' ao Componente 'Todo.vue' |
+| **[Tutorial 11](agenda/11-desenvolvendo-o-botão-exclusão-ao-componente-todo-list.md)**  | Desenvolvendo o Botão Exclusão ao Componente 'Todo-List' |
+
 
 
 
