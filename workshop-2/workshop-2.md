@@ -18,7 +18,7 @@ A demo consiste no desenvolvimento de uma aplicação Todo List. Onde ao final d
 | **[Tutorial 8](agenda/8-renderizando-os-dados-do-componente.md)**  | Renderizando os dados do Componente |
 | **[Tutorial 9](agenda/9-criando-e-editando-o-componente-todo.md)**  | Criando e Editando o Componente 'Todo' |
 | **[Tutorial 10](agenda/10-criando-propriedades-e-metodo-editar-ao-componente-todo-vue.md)**  | Criando Propriedade e Método 'Editar' ao Componente 'Todo.vue' |
-| **[Tutorial 11](agenda/11-desenvolvendo-o-botão-exclusão-ao-componente-todo-list.md)**  | Desenvolvendo o Botão Exclusão ao Componente 'Todo-List' |
+| **[Tutorial 11](agenda/11-desenvolvendo-o-botão-exclusão-ao-componente-todo.md)**  | Desenvolvendo o Botão Exclusão ao Componente 'Todo' |
 
 
 
