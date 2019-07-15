@@ -71,4 +71,8 @@ p.tarefas {
 
 ```
 
-Muitas alterações não é mesmo?! Mas, necessárias para deixar o UI da nossa aplicação mais linda!
+Muitas alterações não é mesmo?! Mas, necessárias para deixar o UI da nossa aplicação mais linda! Vejam agora como está!
+
+[![gif-12.gif](https://s3.gifyu.com/images/gif-12.gif)](https://gifyu.com/image/ERPY)
+
+Agora que toda a nossa aplicação está funcionando e está completa, vamos alterar a estrutura do projeto. 
