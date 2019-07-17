@@ -26,7 +26,9 @@ A demo consiste no desenvolvimento de uma aplicação Todo List. Onde ao final d
 | **[Tutorial 16](agenda/16-alterando-a-estrutura-do-projeto-e-router.md)**  | Alterando a estrutura do projeto & router |
 | **[Tutorial 17](agenda/17-o-que-é-azure-storage-account.md)** | O que é Azure Storage Account? |
 | **[Tutorial 18](agenda/18-criando-uma-conta-no-azure.md)** | Criando uma conta no Azure |
-| **[Tutorial 19](agenda/19-hospedando-a-aplicação-no-azure-storage-account-no-vscode.md)** | Hospedando a aplicação no Azure Storage Account no Visual Studio Code |
+| **[Tutorial 19](agenda/19-criando-conta-do-azure-storage-no-vscode.md)** | Criando Conta do Azure Storage no Visual Studio Code |
+| **[Tutorial 20](agenda/20-realizando-deploy-da-aplicação-no-azure-storage-account-no-vscode.md)** | Realizando Deploy da aplicação no Azure Storage Account no Visual Studio Code |
+
 
 
 

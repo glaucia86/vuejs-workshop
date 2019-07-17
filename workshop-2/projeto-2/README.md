@@ -51,8 +51,7 @@ Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser execu
 ```
 ## Demo da Aplicação (Online) ⭐️
 
-Caso desejam visualizar a demo da aplicação na nuvem, bastam acessar o link **[AQUI]()**.
-
+Caso desejam visualizar a demo da aplicação na nuvem, bastam acessar o link **[AQUI](glauciatodolist.z19.web.core.windows.net/)**.
 
 ## Tenho Dúvidas... O que Faço?! ❓
 
