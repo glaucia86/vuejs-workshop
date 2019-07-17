@@ -1,0 +1,1 @@
+## Hospedando a aplicação no Azure Storage Account no Visual Studio Code 
