@@ -2,7 +2,7 @@
 
 ### Executando o comando 'Build'
 
-A primeira coisa que precisamos fazer, antes de realizar a implementação e hospedagem da nossa aplicação é executar o `build` na nossa aplicação. 
+A primeira coisa que precisamos fazer, antes de realizar a implementação e hospedagem da nossa aplicação é executar o comando `build` na nossa aplicação. 
 
 Antes de executar o comando `npm run build`, será necessário realizar algumas alterações significativas no arquivo `package.json`.
 
@@ -40,11 +40,11 @@ Entre agora no **[Portal Azure](https://azure.microsoft.com/features/azure-porta
 
 1 - Clique em **Resource Groups**
 
-[![Screen-Shot-07-01-19-at-06-37-PM.png](https://i.postimg.cc/fRDRQnPS/Screen-Shot-07-01-19-at-06-37-PM.png)](https://postimg.cc/nCSJq5pn)
+[![imagem-2.png](https://i.postimg.cc/vZ1rdNxx/imagem-2.png)](https://postimg.cc/xX2JvgR9)
 
 2 - Clique no botão **Add New Resource Group**
 
-[![Screen-Shot-07-01-19-at-06-38-PM.png](https://i.postimg.cc/0jPB2n1n/Screen-Shot-07-01-19-at-06-38-PM.png)](https://postimg.cc/mzpwmQD1)
+[![imagem.png](https://i.postimg.cc/sg2nGmQ3/imagem.png)](https://postimg.cc/mt030Qyn)
 
 3 - Escolha a Subscription que aparecerá para você e depois crie um nome para o campo **Resource Group**. No meu caso será: **CalcVueResourceGroup**. E por fim, escolha a **Region**, no meu caso escolherei: **(US) Central US**
 

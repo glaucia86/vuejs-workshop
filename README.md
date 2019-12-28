@@ -89,5 +89,4 @@ Durante o workshop, estaremos trabalhando com 3 workshops, que tem como principa
 
 Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/vuejs-workshop/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
-
 **(documentação em desenvolvimento)**
