@@ -5,29 +5,29 @@ Repositório responsável pelos workshops de Vue.js com Azure.
 
 ## Recursos Utilizados 🚀
 
-* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=vuejsworkshop-github-gllemos)**
+* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
 * **[Vue.js](https://vuejs.org/)**
 * **[Vue-CLI](https://cli.vuejs.org/)**
 * **[MongoDb Community Server](https://www.mongodb.com/download-center/community)**
 * **[MongoDb Compass GUI](https://www.mongodb.com/download-center/compass)**
 * **[Postman](https://www.getpostman.com/)**
-* **[Azure Web App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=vuejsworkshop-github-gllemos)**
-* **[Azure Storage Account](https://azure.microsoft.com/pt-br/services/storage/?WT.mc_id=vuejsworkshop-github-gllemos)**
-* **[Azure CosmosDb](https://azure.microsoft.com/pt-br/services/cosmos-db/?WT.mc_id=vuejsworkshop-github-gllemos)**
-* **[Conta - Azure](https://azure.microsoft.com/pt-br/?WT.mc_id=vuejsworkshop-github-gllemos)**
+* **[Azure Web App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=javascript-0000-gllemos)**
+* **[Azure Storage Account](https://azure.microsoft.com/services/storage/?WT.mc_id=javascript-0000-gllemos)**
+* **[Azure CosmosDb](https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=javascript-0000-gllemos)**
+* **[Conta - Azure](https://azure.microsoft.com/?WT.mc_id=javascript-0000-gllemos)**
 
 ## Conta - Azure for Students ⭐️
 
-Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=vuejsworkshop-github-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=vuejsworkshop-github-gllemos)**
+Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**
 
 ## Pré-requisitos 📌
 
 Para a realização dos workshops de Vue.js, se faz necessário ter noções de: **HTML, CSS & JavaScript**. Pensando nisso, estou disponibilizando abaixo dois cursos grátis de:
 
-* **[Crie um site simples usando HTML, CSS e JavaScript](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=vuejsworkshop-github-gllemos)**
+* **[Crie um site simples usando HTML, CSS e JavaScript](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=javascript-0000-gllemos)**
 
-* **[Desenvolva aplicativos Web com o Visual Studio Code](https://docs.microsoft.com/learn/modules/develop-web-apps-with-vs-code/?WT.mc_id=vuejsworkshop-github-gllemos)**
+* **[Desenvolva aplicativos Web com o Visual Studio Code](https://docs.microsoft.com/learn/modules/develop-web-apps-with-vs-code/?WT.mc_id=javascript-0000-gllemos)**
 
 Realizando esses 2 cursos, vocês já estarão aptos para realizar os workshops:
 
@@ -57,7 +57,7 @@ Os níveis estão divididos em:
 
 A intenção é que todas as pessoas desenvolvedoras possam aprender Vue.js desenvolvendo aplicações do dia-a-dia usando desde conceitos básicos à avançados de Vue.js.
 
-Após o desenvolvimento de cada projeto, ensinaremos a realizar o deploy/host dos projetos na nuvem usando o **[Azure App Service](https://azure.microsoft.com/?WT.mc_id=vuejsworkshop-github-gllemos)** e **[Azure Storage Account](https://azure.microsoft.com/pt-br/services/storage/?WT.mc_id=vuejsworkshop-github-gllemos)**
+Após o desenvolvimento de cada projeto, ensinaremos a realizar o deploy/host dos projetos na nuvem usando o **[Azure App Service](https://azure.microsoft.com/?WT.mc_id=javascript-0000-gllemos)** e **[Azure Storage Account](https://azure.microsoft.com/services/storage/?WT.mc_id=javascript-0000-gllemos)**
 
 ## Projetos a serem Desenvolvidos 💾
 
